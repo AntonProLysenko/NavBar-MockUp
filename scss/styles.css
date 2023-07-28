@@ -75,7 +75,7 @@ body {
     display: flex;
   }
   .navbar-links {
-    display: none;
+    display: flex;
     width: 100%;
   }
   .navbar-links ul {
